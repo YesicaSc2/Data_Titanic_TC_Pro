@@ -26,7 +26,7 @@ Esta aplicación desarrollada en MIT App Inventor visualiza y analiza datos hist
 - **Adultos (20-40 años)**: Amplio rango de precios, sugiriendo factores adicionales
 - **Outliers identificados**: Algunos pasajeros con tickets excepcionalmente costosos
 
-#### ** Supervivencia por Clase:**
+#### **Supervivencia por Clase:**
 - **1ª Clase**: ≈62% de supervivencia
 - **2ª Clase**: ≈47% de supervivencia  
 - **3ª Clase**: ≈24% de supervivencia
