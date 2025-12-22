@@ -1,4 +1,3 @@
-# Data_Titanic_TC_Pro
 # **Análisis de Datos del Titanic - Visualización y Hallazgos**
 
 ## **Objetivo del Proyecto**
