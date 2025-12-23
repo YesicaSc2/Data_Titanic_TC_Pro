@@ -82,6 +82,3 @@ Confirmaciones:
 
 ---
 
-** Conectando datos históricos con tecnología moderna para entender patrones del pasado**
-
-*"Los datos no mienten, pero requieren interpretación cuidadosa para contar su historia completa"*
